@@ -22,5 +22,5 @@ No further troubleshooting needed. Verified with user that the issue was fully r
 before closing. Ticket closed as self-resolved (transient outage).
 
 ## Screenshot
-![Ticket details](../screenshots/net17891637894780-ticket.png)
+![Ticket details](/screenshots/net17891637894780-ticket.png)
 ![User confirmation](../screenshots/net17891637894780-chat-confirm.png)
