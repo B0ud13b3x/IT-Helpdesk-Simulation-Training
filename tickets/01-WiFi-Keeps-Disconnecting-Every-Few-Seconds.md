@@ -1,4 +1,4 @@
-# Ticket #01 — WiFi Keeps Disconnecting Every Few Seconds
+# Ticket #01-WiFi Keeps Disconnecting Every Few Seconds
 
 **Ticket ID:** NET17891637894780
 **Category:** Network
