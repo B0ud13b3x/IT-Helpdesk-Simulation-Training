@@ -6,7 +6,7 @@ administration, remote desktop support, and live voice call handling.
 
 ## Purpose
 
-To build and demonstrate practical helpdesk skills beyond certifications — simulated ticket
+To build and demonstrate practical helpdesk skills beyond certifications simulated ticket
 queues, AD tasks, and troubleshooting under time pressure, closer to real Tier 1/Tier 2 support work.
 
 ## Skills Practiced
