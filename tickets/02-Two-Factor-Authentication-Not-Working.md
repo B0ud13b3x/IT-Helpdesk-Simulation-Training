@@ -8,7 +8,7 @@
 
 ## Reported Issue
 User reported all company systems can't be accessed due to "TWO-FACTOR AUTHENTICATION" not working.
-![Ticket details](../screenshots/INC448480-ticket.png)
+![Ticket details](screenshots/INC448480-ticket.png)
 ## Business Impact
 Completely locked out of all company systems.
 
@@ -22,5 +22,4 @@ Contact the user and inform that he can re-enroll their authenticator on next lo
 resetted MFA. Verified with user that the issue was fully resolved
 before closing. Ticket closed as MFA issue.
 
-![Ticket details](../screenshots/INC448480-ticket.png)
-![User confirmation](../screenshots/INC448480-chat-confirm.png)
+![User confirmation](screenshots/INC448480-chat-confirm.png)
