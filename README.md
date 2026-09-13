@@ -28,11 +28,6 @@ queues, AD tasks, and troubleshooting under time pressure, closer to real Tier 1
 | Remote Desktop        | 0                         | See [remote-desktop/](./remote-desktop) |
 | Voice Call Scenarios  | 0                         | See [voice-calls/](./voice-calls) |
 
-## Sample Ticket Walkthrough
-
-See [tickets/01-password-reset-lockout.md](./tickets/01-password-reset-lockout.md) for a
-full example of my ticket-handling process: intake, diagnosis, resolution, and documentation.
-
 ## Disclaimer
 
 This repo documents practice work completed on a third-party training simulator, not
