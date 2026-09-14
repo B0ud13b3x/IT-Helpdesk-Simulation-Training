@@ -4,7 +4,7 @@
 **Category:** Security\
 **Priority:** Critical\
 **Reported by:** Robert Taylor, Finance (x4095)\
-**Tools used:** MFA, login
+**Tools used:** Ticketing system, chat, AD
 
 ## Reported Issue
 User reported all company systems can't be accessed due to "TWO-FACTOR AUTHENTICATION" not working.
