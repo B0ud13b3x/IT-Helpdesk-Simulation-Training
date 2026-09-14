@@ -13,8 +13,9 @@ User reported WiFi disconnecting every few seconds, dropping a video call 3 time
 Active video call disrupted repeatedly, blocking communication for HR staff.
 
 ## Action Taken
-Assigned ticket to self and reached out to the user to confirm current status before
-starting diagnostics. User reported the connection had already come back on its own
+1. Assigned ticket to self and reached out to the user to confirm current status before
+starting diagnostics. 
+2. User reported the connection had already come back on its own
 likely a brief outage and confirmed everything was stable.
 
 ## Outcome
