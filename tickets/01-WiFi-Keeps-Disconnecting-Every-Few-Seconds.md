@@ -4,7 +4,7 @@
 **Category:** Network\
 **Priority:** Critical\
 **Reported by:** James Miller, HR (x3225)\
-**Tools used:** Ticketing system, chat\
+**Tools used:** Ticketing system, chat
 
 ## Reported Issue
 User reported WiFi disconnecting every few seconds, dropping a video call 3 times.
