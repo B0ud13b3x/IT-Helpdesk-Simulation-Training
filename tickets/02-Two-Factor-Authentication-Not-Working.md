@@ -1,9 +1,9 @@
 # Ticket #02-Two Factor Authentication Not Working
 
-**Ticket ID:** INC448480
-**Category:** Security
-**Priority:** Critical
-**Reported by:** Robert Taylor, Finance (x4095)
+**Ticket ID:** INC448480\
+**Category:** Security\
+**Priority:** Critical\
+**Reported by:** Robert Taylor, Finance (x4095)\
 **Tools used:** MFA, login
 
 ## Reported Issue
@@ -14,9 +14,9 @@ Completely locked out of all company systems.
 
 ## Action Taken
 Assigned ticket to self and reached out to the user to confirm current status before\
-starting diagnostics.\ 
+starting diagnostics.\
 reset the user MFA.\
-Contact the user and inform that he can re-enroll their authenticator on next login.\
+Contact the user and inform that he can re-enroll their authenticator on next login.
 
 ## Outcome
 resetted MFA. Verified with user that the issue was fully resolved
