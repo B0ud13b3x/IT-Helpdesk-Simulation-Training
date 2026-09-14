@@ -1,7 +1,7 @@
 # Helpdesk Simulation Lab
 
-Self-directed IT support training using [ServiceDesk Simulator](https://servicedesk-simulator.com),
-a hands-on platform simulating real helpdesk scenarios: ticket resolution, Active Directory
+Self-directed IT support training using [ServiceDesk Simulator](https://servicedesk-simulator.com), [Sysdesks](https://sysdesks.com/)
+a hands-on platforms simulating real helpdesk scenarios: ticket resolution, Active Directory
 administration, remote desktop support, and live voice call handling.
 
 ## Purpose
