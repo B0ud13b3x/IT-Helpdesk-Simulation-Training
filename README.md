@@ -22,8 +22,8 @@ queues, AD tasks, and troubleshooting under time pressure, closer to real Tier 1
 
 | Category            | Tickets/Tasks Completed | Notes                          |
 |----------------------|--------------------------|---------------------------------|
-| Password/Account     | 0                        | See [tickets/](./tickets)      |
-| Network/DNS           | 0                         | See [tickets/](./tickets)      |
+| Password/Account     | 1                        | See [tickets/](./tickets)      |
+| Network/DNS           | 2                         | See [tickets/](./tickets)      |
 | Active Directory      | 0                       | See [active-directory/](./active-directory) |
 | Remote Desktop        | 0                         | See [remote-desktop/](./remote-desktop) |
 | Voice Call Scenarios  | 0                         | See [voice-calls/](./voice-calls) |
