@@ -14,8 +14,9 @@ Cannot access email, cloud apps, or any websites. Work completely halted.\
 Upon investigation, ISP was down which resulted in downtime of 60min for all company's employees.
 
 ## Action Taken
- 1. Assigned ticket to self and reached out to the user to inform that diagnoses stated.\
- 2. Remote access to the user's pc to check connection to the domain status.\
+ 1. Assigned ticket to self and reached out to the user to confirm current status
+   before starting diagnostics.
+ 2. Remoted into the user's PC to check connection to the domain status.\
     2.1Ran `ipconfig` : workstation had a valid IP (10.0.1.98), gateway, and DNS suffix.\
     ![Ipconfig](screenshots/NET17893247672002-ipconfig.png)
  3. Upon contacting the ISP, they confirmed that the network status was down, with an ETA of 30 to 60 minutes for resolution.
